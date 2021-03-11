@@ -1,3 +1,2 @@
 # Pytorch_Learning
-Target Detection
-Day Day Up
+# YOLOv1 mycode created in 2021
